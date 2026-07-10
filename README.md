@@ -213,5 +213,6 @@ Tools Used
 Task 2 provided practical experience in deploying and operating an enterprise-grade vulnerability assessment platform. Through hands-on installation, scanner configuration, vulnerability analysis, and report generation, I gained valuable experience in identifying security weaknesses, interpreting risk levels, and documenting findings following cybersecurity best practices.
 
 ⸻
-Prepared by: Hariprasath
+Prepared by: Hariprasath Ravichandran
+
 NovaShyld Technologies – Ethical Hacking & Penetration Testing Internship
