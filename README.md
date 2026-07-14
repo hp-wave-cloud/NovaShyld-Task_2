@@ -5,7 +5,7 @@
 - Name: Hariprasath
 - Internship: Ethical Hacking & Penetration Testing Internship
 - Organization: NovaShyld Technologies
-- GitHub Repository: https://github.com/hp-wave-cloud/NovaShyld_Task_2
+- GitHub Repository: https://github.com/hp-wave-cloud/NovaShyld-Task_2
 - GitHub Pages: https://hp-wave-cloud.github.io/NovaShyld_Task_2/
 ---
 
